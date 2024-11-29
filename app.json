@@ -1,0 +1,42 @@
+
+{
+  "expo": {
+    "name": "FacultyLoadPro",
+    "slug": "facultyloadpro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/facultyloadpro.png", 
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/facultyloadpro.png", 
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.facultyloadpro"
+    },
+    "android": {
+      "USTP": {
+        "foregroundImage": "./assets/images/Logo.png", 
+        "backgroundColor": "#201B51"
+      },
+      "package": "com.yourcompany.facultyloadpro"
+    },
+    "web": {
+      "Logo": "./assets/images/facultyloadpro.png"
+    },
+    
+  "expo": {
+    "newArchEnabled": true,
+    "scheme": "your-app-scheme"
+  }
+}
+
+  }
